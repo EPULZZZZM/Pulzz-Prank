@@ -7,6 +7,6 @@ Script ini adalah game tebak-tebakan di Termux yang akan menghapus file atau fol
 ```bash
 pkg update && pkg upgrade
 pkg install git python
-git clone https://github.com/USERNAME/pulzz
+git clone https://github.com/EPULZZZZM/Pulzz-Prank/blob/main/README.md
 cd pulzztebakan
 python pulzztebakan.py
