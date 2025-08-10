@@ -64,8 +64,8 @@ def hapus_tebakan():
     input(Fore.CYAN + "Tekan Enter untuk kembali ke menu...")
 
 def lihat_file():
-    print(Fore.YELLOW + "\n📂 Daftar file di /sdcard/Download/\n")
-    folder = "/sdcard/Download"
+    print(Fore.YELLOW + "\n📂 Daftar file di /sdcard/\n")
+    folder = "/sdcard"
     try:
         for item in os.listdir(folder):
             print("•", item)
