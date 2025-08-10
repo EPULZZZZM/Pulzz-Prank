@@ -9,4 +9,4 @@ pkg update && pkg upgrade
 pkg install git python
 git clone https://github.com/EPULZZZZM/Pulzz-Prank.git
 cd Pulzztebakan
-python pulzztebakan.py
+python Pulzztebakan.py
