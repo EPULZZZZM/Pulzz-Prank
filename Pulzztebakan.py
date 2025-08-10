@@ -76,9 +76,9 @@ def lihat_file():
 
 def developer_info():
     print(Fore.CYAN + "\n👤 Developer:")
-    print("Pulzz Project Team")
+    print("Pulzz")
     print("IG: @pulzzdev")
-    print("GitHub: github.com/pulzzdev\n")
+    print("GitHub: github.com/EPULZZZZM\n")
     print("TT: @epul.doank81")
     print("TELE: @EpulzzOfficial78")
     input(Fore.CYAN + "Tekan Enter untuk kembali ke menu...")
